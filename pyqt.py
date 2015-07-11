@@ -5,7 +5,7 @@ from mainWindow import Ui_MainWindow # or what it says in module
 class MainWindow(QtGui.QMainWindow, Ui_MainWindow):
     def __init__(self, parent=None):
         """
-        The core workings of the DrKnow window
+        Some comment here
         """
         QtGui.QWidget.__init__(self, parent)
         self.setupUi(self)
