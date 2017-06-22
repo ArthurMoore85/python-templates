@@ -1,9 +1,7 @@
-# python-templates
-Boilerplate python files.
+Python Templates
+================
 
-I had originally wrote these since I use them fairly often.
+The following template files are designed to help the user develop on Python.
+These include but are not limited to PyQt and Flask files.
 
-If you use a Linux system, clone the files in this repo to ~/Templates. If that directory does not exist, create it.
-This allows you right click, and select 'New Document' and choose which template you want to load.
-
-Hope it helps some people
+They are intended to work on, but should work as-is.
